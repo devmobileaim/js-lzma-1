@@ -559,3 +559,5 @@ LZMA.decompressFile = function(inStream, outStream){
 
   return true;
 };
+
+module.exports = LZMA;
